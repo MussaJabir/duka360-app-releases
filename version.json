@@ -1,0 +1,11 @@
+{
+  "latest": "1.4.0",
+  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.4.0/duka360-v1.4.0.apk",
+  "important": false,
+  "size_mb": 87,
+  "notes": {
+    "en": ["Staff accounts and business details for admins", "Product photos, categories and stock corrections", "Scan barcodes with the phone camera"],
+    "sw": ["Akaunti za wafanyakazi na taarifa za biashara kwa wasimamizi", "Picha za bidhaa, aina na marekebisho ya stoki", "Skani barcode kwa kamera ya simu"]
+  },
+  "important_message": {}
+}
