@@ -1,11 +1,11 @@
 {
-  "latest": "1.4.0",
-  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.4.0/duka360-v1.4.0.apk",
+  "latest": "1.5.0",
+  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.5.0/duka360-v1.5.0.apk",
   "important": false,
-  "size_mb": 87,
+  "size_mb": 88,
   "notes": {
-    "en": ["Staff accounts and business details for admins", "Product photos, categories and stock corrections", "Scan barcodes with the phone camera"],
-    "sw": ["Akaunti za wafanyakazi na taarifa za biashara kwa wasimamizi", "Picha za bidhaa, aina na marekebisho ya stoki", "Skani barcode kwa kamera ya simu"]
+    "en": ["The app tells you when a new version is ready", "Staff accounts and business details for admins", "Small fixes and improvements"],
+    "sw": ["Programu inakujulisha toleo jipya likiwa tayari", "Akaunti za wafanyakazi na taarifa za biashara kwa wasimamizi", "Marekebisho madogo na maboresho"]
   },
   "important_message": {}
 }
