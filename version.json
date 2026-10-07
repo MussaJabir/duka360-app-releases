@@ -1,11 +1,11 @@
 {
-  "latest": "1.5.0",
-  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.5.0/duka360-v1.5.0.apk",
+  "latest": "1.6.0",
+  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.6.0/duka360-v1.6.0.apk",
   "important": false,
-  "size_mb": 88,
+  "size_mb": 86,
   "notes": {
-    "en": ["The app tells you when a new version is ready", "Staff accounts and business details for admins", "Small fixes and improvements"],
-    "sw": ["Programu inakujulisha toleo jipya likiwa tayari", "Akaunti za wafanyakazi na taarifa za biashara kwa wasimamizi", "Marekebisho madogo na maboresho"]
+    "en": ["The app is now available in Kiswahili: choose it in More, Settings, Language", "Receipts and shift reports print in the language you choose", "Small fixes in the reports"],
+    "sw": ["Programu sasa inapatikana kwa Kiswahili: chagua kwenye Zaidi, Mipangilio, Lugha", "Risiti na ripoti za zamu huchapishwa kwa lugha uliyochagua", "Marekebisho madogo kwenye ripoti"]
   },
   "important_message": {}
 }
