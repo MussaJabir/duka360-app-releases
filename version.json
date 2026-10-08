@@ -1,11 +1,21 @@
 {
-  "latest": "1.6.0",
-  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.6.0/duka360-v1.6.0.apk",
+  "latest": "1.7.0",
+  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.7.0/duka360-v1.7.0.apk",
   "important": false,
   "size_mb": 86,
   "notes": {
-    "en": ["The app is now available in Kiswahili: choose it in More, Settings, Language", "Receipts and shift reports print in the language you choose", "Small fixes in the reports"],
-    "sw": ["Programu sasa inapatikana kwa Kiswahili: chagua kwenye Zaidi, Mipangilio, Lugha", "Risiti na ripoti za zamu huchapishwa kwa lugha uliyochagua", "Marekebisho madogo kwenye ripoti"]
+    "en": [
+      "Pay by mobile money or bank at checkout, even with no internet",
+      "Type the quantity in the cart, and no selling past the stock",
+      "Home shows stock value at cost and the profit you can expect",
+      "Choose the supplier when you restock"
+    ],
+    "sw": [
+      "Lipa kwa pesa ya simu au benki unapokamilisha mauzo, hata bila intaneti",
+      "Andika idadi kwenye kikapu, na huwezi kuuza zaidi ya stoki",
+      "Nyumbani inaonyesha thamani ya stoki kwa bei ya kununua na faida tarajiwa",
+      "Chagua msambazaji unapoongeza stoki"
+    ]
   },
   "important_message": {}
 }
