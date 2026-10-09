@@ -1,18 +1,18 @@
 {
-  "latest": "1.8.0",
-  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.8.0/duka360-v1.8.0.apk",
+  "latest": "1.9.0",
+  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.9.0/duka360-v1.9.0.apk",
   "important": false,
   "size_mb": 86,
   "notes": {
     "en": [
-      "Add a new customer with no internet, and sell to them straight away",
-      "New customers are sent by themselves when the internet is back",
-      "The app warns you before you sign out with sales that are not sent yet"
+      "Add a new product with no internet, and sell it straight away",
+      "New products are sent by themselves when the internet is back",
+      "If the shop already has the product, choose to use it or rename yours"
     ],
     "sw": [
-      "Ongeza mteja mpya bila intaneti, na umuuzie papo hapo",
-      "Wateja wapya hutumwa wenyewe intaneti ikirudi",
-      "Programu inakuonya kabla ya kutoka ukiwa na mauzo ambayo hayajatumwa"
+      "Ongeza bidhaa mpya bila intaneti, na uiuze papo hapo",
+      "Bidhaa mpya hutumwa zenyewe intaneti ikirudi",
+      "Duka likiwa tayari na bidhaa hiyo, chagua kuitumia au badilisha jina la yako"
     ]
   },
   "important_message": {}
