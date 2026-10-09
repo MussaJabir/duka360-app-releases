@@ -1,20 +1,18 @@
 {
-  "latest": "1.7.0",
-  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.7.0/duka360-v1.7.0.apk",
+  "latest": "1.8.0",
+  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.8.0/duka360-v1.8.0.apk",
   "important": false,
   "size_mb": 86,
   "notes": {
     "en": [
-      "Pay by mobile money or bank at checkout, even with no internet",
-      "Type the quantity in the cart, and no selling past the stock",
-      "Home shows stock value at cost and the profit you can expect",
-      "Choose the supplier when you restock"
+      "Add a new customer with no internet, and sell to them straight away",
+      "New customers are sent by themselves when the internet is back",
+      "The app warns you before you sign out with sales that are not sent yet"
     ],
     "sw": [
-      "Lipa kwa pesa ya simu au benki unapokamilisha mauzo, hata bila intaneti",
-      "Andika idadi kwenye kikapu, na huwezi kuuza zaidi ya stoki",
-      "Nyumbani inaonyesha thamani ya stoki kwa bei ya kununua na faida tarajiwa",
-      "Chagua msambazaji unapoongeza stoki"
+      "Ongeza mteja mpya bila intaneti, na umuuzie papo hapo",
+      "Wateja wapya hutumwa wenyewe intaneti ikirudi",
+      "Programu inakuonya kabla ya kutoka ukiwa na mauzo ambayo hayajatumwa"
     ]
   },
   "important_message": {}
