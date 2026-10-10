@@ -1,17 +1,17 @@
 {
-  "latest": "1.9.0",
-  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.9.0/duka360-v1.9.0.apk",
+  "latest": "1.9.1",
+  "url": "https://github.com/MussaJabir/duka360-app-releases/releases/download/v1.9.1/duka360-v1.9.1.apk",
   "important": false,
   "size_mb": 86,
   "notes": {
     "en": [
+      "Fixed: closing a shift now saves the cash you counted",
       "Add a new product with no internet, and sell it straight away",
-      "New products are sent by themselves when the internet is back",
       "If the shop already has the product, choose to use it or rename yours"
     ],
     "sw": [
+      "Imerekebishwa: kufunga zamu sasa kunahifadhi pesa uliyohesabu",
       "Ongeza bidhaa mpya bila intaneti, na uiuze papo hapo",
-      "Bidhaa mpya hutumwa zenyewe intaneti ikirudi",
       "Duka likiwa tayari na bidhaa hiyo, chagua kuitumia au badilisha jina la yako"
     ]
   },
